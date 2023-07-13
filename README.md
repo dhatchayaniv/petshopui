@@ -1,1 +1,1 @@
-https://github.io/dhatchayaniv/petshopui
+https://dhatchayaniv.github.io/petshopui/
